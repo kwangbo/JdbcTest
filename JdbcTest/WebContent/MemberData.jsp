@@ -32,9 +32,11 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+github ฝรว่ม฿ 
 
 <%
+
+    
 	try {
 
 		Class.forName(driver);
